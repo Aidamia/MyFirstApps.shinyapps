@@ -1,0 +1,13 @@
+name: MyFirstApp
+title: MyFirstApp
+username:
+account: aidamia98
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5201649
+bundleId: 5291235
+url: https://aidamia98.shinyapps.io/MyFirstApp/
+when: 1637817861.258
+lastSyncTime: 1637817861.258
+asMultiple: FALSE
+asStatic: FALSE
